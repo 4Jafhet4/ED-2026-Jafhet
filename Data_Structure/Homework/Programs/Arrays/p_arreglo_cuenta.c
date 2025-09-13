@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    //Números pares en orden inverso
+    //NÃºmeros pares en orden inverso
     int num_p[10];
     int i;
     printf("=== PRIMER PROGRAMA ===\n");
@@ -14,7 +14,7 @@ int main() {
     }
     printf("\n");
     
-    //Número de cuenta modificado
+    //NÃºmero de cuenta modificado
     printf("=== SEGUNDO PROGRAMA ===\n");
     int array[10] = {4, 2, 4, 0, 0, 6, 9, 5, 2};
     int p = 0;
@@ -37,3 +37,4 @@ int main() {
 
     return 0;
 }
+
